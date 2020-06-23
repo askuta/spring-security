@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "landon.guest.service.url",
+  "type": "java.lang.String",
+  "description": "A description for 'landon.guest.service.url'"
+}]}
